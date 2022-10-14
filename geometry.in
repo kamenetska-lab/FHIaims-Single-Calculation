@@ -1,0 +1,81 @@
+# opt: au 
+atom             0.501396000      0.445965000     -0.915389000   C
+atom             1.043057000     -0.745307000     -0.393395000   C
+atom            -0.586747000      1.056125000     -0.289600000   C
+atom            -1.014209000      1.977842000     -0.713730000   H
+atom             0.486876000     -1.310280000      0.768619000   C
+atom            -1.146293000      0.488706000      0.872703000   C
+atom             0.913082000     -2.232765000      1.192239000   H
+atom            -0.602426000     -0.698663000      1.396250000   C
+atom            -1.040582000     -1.156004000      2.296749000   H
+atom             0.941341000      0.903883000     -1.814785000   H
+atom             2.223183000     -1.292666000     -0.966571000   N
+atom             2.291292000     -1.169217000     -1.983582000   H
+atom             2.382420000     -2.279721000     -0.734716000   H
+atom            -2.333503000      1.040306000      1.424134000   N
+atom            -2.408914000      2.059847000      1.331925000   H
+atom            -2.512260000      0.770807000      2.397960000   H
+atom           -4.044085468      0.121631414     -0.028705146   Au
+atom           -6.283721413     -1.021314357     -1.440641282   Au
+atom           -6.443637264     -0.586101595      1.405562269   Au
+atom           -6.453137667      1.662635155     -0.399694117   Au
+atom           -8.523357369     -2.164260129     -2.852577418   Au
+  constrain_relaxation .true.
+atom           -8.683273220     -1.729047367     -0.006373867   Au
+  constrain_relaxation .true.
+atom           -8.843189071     -1.293834605      2.839829684   Au
+  constrain_relaxation .true.
+atom           -8.692773623      0.519689383     -1.811630253   Au
+  constrain_relaxation .true.
+atom           -8.852689474      0.954902145      1.034573297   Au
+  constrain_relaxation .true.
+atom           -8.862189877      3.203638905     -0.770683091   Au
+  constrain_relaxation .true.
+atom          -10.922909165     -2.871993138     -1.418310002   Au
+  constrain_relaxation .true.
+atom          -11.082825016     -2.436780376      1.427893548   Au
+  constrain_relaxation .true.
+atom          -10.932409568     -0.623256388     -3.223566389   Au
+  constrain_relaxation .true.
+atom          -11.092325419     -0.188043626     -0.377362838   Au
+  constrain_relaxation .true.
+atom          -11.252241270      0.247169136      2.468840712   Au
+  constrain_relaxation .true.
+atom          -11.101825822      2.060693124     -2.182619225   Au
+  constrain_relaxation .true.
+atom          -11.261741673      2.495905886      0.663584326   Au
+  constrain_relaxation .true.
+atom           -9.022105728      3.638851667      2.075520460   Au
+  constrain_relaxation .true.
+atom            4.048636581      0.046231322     -0.009369846   Au
+atom            6.579047440     -0.330043347      1.321530644   Au
+atom            6.412499968     -0.552262102     -1.548789660   Au
+atom            6.129861030      2.023445658     -0.283205758   Au
+atom            9.109458309     -0.706318015      2.652431132   Au
+  constrain_relaxation .true.
+atom            8.942910837     -0.928536770     -0.217889171   Au
+  constrain_relaxation .true.
+atom            8.776363365     -1.150755525     -3.088209475   Au
+  constrain_relaxation .true.
+atom            8.660271899      1.647170990      1.047694731   Au
+  constrain_relaxation .true.
+atom            8.493724427      1.424952235     -1.822625573   Au
+  constrain_relaxation .true.
+atom            8.211085488      4.000660005     -0.557041672   Au
+  constrain_relaxation .true.
+atom           11.473321696     -1.304811440      1.113011318   Au
+  constrain_relaxation .true.
+atom           11.306774224     -1.527030195     -1.757308985   Au
+  constrain_relaxation .true.
+atom           11.190682758      1.270896320      2.378595220   Au
+  constrain_relaxation .true.
+atom           11.024135286      1.048677566     -0.491725083   Au
+  constrain_relaxation .true.
+atom           10.857587814      0.826458811     -3.362045387   Au
+  constrain_relaxation .true.
+atom           10.741496348      3.624385326      0.773858818   Au
+  constrain_relaxation .true.
+atom           10.574948876      3.402166571     -2.096461485   Au
+  constrain_relaxation .true.
+atom            8.044538015      3.778441250     -3.427361975   Au
+  constrain_relaxation .true.
